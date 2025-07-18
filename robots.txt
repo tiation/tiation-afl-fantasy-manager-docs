@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://tiation.github.io/tiation-afl-fantasy-manager-docs/sitemap.xml
